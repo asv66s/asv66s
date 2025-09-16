@@ -1,5 +1,5 @@
-* space for a cool bio, except I'm bad at bios
-```
+> space for a cool bio, except I'm bad at bios
+``` cpp
   ／l、             
 （ﾟ､ ｡ ７         
   l  ~ヽ       
