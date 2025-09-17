@@ -1,3 +1,35 @@
+``` scss
+// scss
+$primary-color: #3498db;
+$font-stack: 'Arial', sans-serif;
+@mixin border-radius($radius) {}
+body mytag .class#id {
+  font-family: $font-stack;
+  margin: 0 auto;
+  color: #333;
+	padding: $spacing-unit * 2;
+}
+p
+br
+div
+4  body
+5  embed, table, tfoot, title
+6  button, strong
+7  details
+8  datalist
+10 blockquote
+10 figcaption
+     EMBED, ,BODY,
+     BUtton)stronG
+     DetAils|eMbeD
+     '"FigCapTiON
+        ^BUTtON
+         ,,HTML.
+      ,$BXX7777PPBB,,
+     $J77L77777jjjjIB,
+
+```
+
 ``` coffee
 # coffeescript
 sayHello = -> console.log "Hello from CoffeeScript!"
@@ -13,7 +45,18 @@ bool getBit(int num, int i) {
 ```
 ``` css
 /* css */
-tag#id.class[attr="val"]{width:0;display:block;}
+:root {
+      --primary-color: #007bff;
+      --spacing-unit: 16px;
+    }
+mytag div#id.class[attr="val"]:not(){width:0;display:block;}
+```
+``` diff
+# diff
+- text in red
++ text in green
+! text in orange +e
+@@ text in purple (and bold)@@
 ```
 ``` go
 // go
