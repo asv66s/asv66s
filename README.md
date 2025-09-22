@@ -1,6 +1,6 @@
 > space for a cool bio, except I'm bad at bios
 
-![](https://komarev.com/ghpvc/?username=asv66s&color=blueviolet&style=flats-quare&label=hits)
+![](https://komarev.com/ghpvc/?username=asv66s&color=blueviolet&style=flat-square&label=hits)
 ``` cpp
   ／l、             
 （ﾟ､ ｡ ７         
