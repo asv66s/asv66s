@@ -14,3 +14,14 @@
     + + +
       + +
         + 
+<div align="center">
+	<br>
+		<picture>
+		  <source media="(min-width: 720px)" srcset="cool.svg">
+		  <img src="cool.svg" width="800" height="400" alt="Click to see the source">
+		</picture>
+  <picture>
+		  <source media="(min-width: 720px)" srcset="embed.svg">
+		  <img src="embed.svg" width="800" height="400" alt="Click to see the source">
+		</picture>
+</div>
