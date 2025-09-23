@@ -161,7 +161,6 @@ https://github.com/sindresorhus/css-in-readme-like-wat -->
           }
         }
 			</style>
-			<main>
         <section class="hero">
           <div class="hero-content">
             <span class="emoji" id="satellite">🛰️</span>
