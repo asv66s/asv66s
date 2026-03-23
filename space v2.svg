@@ -62,6 +62,7 @@ section.hero {
   top: 25%;
   animation: float linear;
   animation-timeline: view(-100px); 
+				height:600px;
 }
 
 .hero-content > * {
@@ -167,7 +168,7 @@ to {
       <span class="emoji" id="comet">☄️</span>
       <h2>space is cool</h2>
       <span class="emoji" id="spaceship">🚀</span>
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+      
     </div>
   </section>
  
@@ -175,7 +176,7 @@ to {
 </main>
 
 
-			</div>
+			</div> <!-- .container -->
 		</div>
 	</foreignObject>
 </svg>
